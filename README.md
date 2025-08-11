@@ -1,7 +1,7 @@
-# Factory Management System — Gadgistics
+# Factory Management System
 
 **Short description**  
-The Factory Management System (Gadgistics) is a web-based application designed to centralize and automate core factory/store operations: user and customer management, inventory and product control, supplier and financial transaction handling (cash/cheque/debt), selling records, expenses, and customer notifications. The system aims to reduce manual work, improve data accuracy, and provide timely reports for decision making. :contentReference[oaicite:0]{index=0}
+The Factory Management System is a web-based application designed to centralize and automate core factory/store operations: user and customer management, inventory and product control, supplier and financial transaction handling (cash/cheque/debt), selling records, expenses, and customer notifications. The system aims to reduce manual work, improve data accuracy, and provide timely reports for decision making. :contentReference[oaicite:0]{index=0}
 
 ---
 
